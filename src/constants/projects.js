@@ -7,8 +7,8 @@ export const PROJECTS = [
     problem:
       'A QSSMA registrava desvios, treinamentos e auditorias no campo pelo Power Apps. O RH controlava colaboradores, benefícios e alojamento em Excel. O Protheus tinha o colaborador ativo, mas não o restante — e outras áreas pediram o mesmo tipo de sistema.',
     description:
-      'Sistema interno da Palmont Engenharia. Nasceu em Power Apps na QSSMA, migrou para web (PHP e MySQL) quando a ferramenta não aguentou o volume e, depois, o front foi para React. Comecei sozinho; hoje outras duas pessoas também alteram o código e eu reviso. Além de qualidade/segurança e RH, o sistema cobre compras, contabilidade, frota, inventário de TI, cadastro de produtos e relatórios. Cerca de 150 a 200 pessoas usam por dia. Com a descontinuação do MySQL na Azure, o banco da aplicação passou para MariaDB.',
-    role: 'Comecei sozinho — front, API PHP e bancos. Hoje reviso e integro o código de outras duas pessoas.',
+      'Sistema interno da Palmont Engenharia. Nasceu em Power Apps na QSSMA, migrou para web (PHP e MySQL) quando a ferramenta não aguentou o volume e, depois, o front foi para React. Comecei sozinho, ainda como auxiliar; hoje outras duas pessoas também alteram o código e eu reviso. Além de qualidade/segurança e RH, o sistema cobre compras, contabilidade, frota, inventário de TI, cadastro de produtos e relatórios. Cerca de 150 a 200 pessoas usam por dia. Com a descontinuação do MySQL na Azure, o banco da aplicação passou para MariaDB.',
+    role: 'Comecei sozinho como auxiliar — front, API PHP e bancos. Hoje, como analista, reviso e integro o código de outras duas pessoas.',
     highlights: [
       'SSMA: desvios, investigações, treinamentos, auditoria interna, checklist, CIPA, RAC, EPI, exames ocupacionais e inspeção ambiental',
       'RH: colaboradores, admissão/transferência, benefícios, folha, folga de campo, afastamentos, alojamento/repúblicas e geração de contratos em PDF',
