@@ -24,9 +24,9 @@ function Hero() {
           <Title>Matheus Oliveira</Title>
           <Role>Desenvolvedor Full Stack</Role>
           <Subtitle>
-            Único desenvolvedor do P-SIG na Palmont Engenharia: sistema interno
-            usado por cerca de 100 a 150 pessoas, em React e PHP, com login JWT,
-            jobs em Python e integração com o TOTVS Protheus.
+            Full stack na Palmont Engenharia. Comecei sozinho o P-SIG — React e
+            PHP, JWT em cookie httpOnly, integração com o TOTVS Protheus — e hoje
+            o sistema atende cerca de 150 a 200 pessoas por dia.
           </Subtitle>
           <Actions>
             <PrimaryButton href="#projetos">Ver projetos</PrimaryButton>

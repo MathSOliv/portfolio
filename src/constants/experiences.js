@@ -1,16 +1,16 @@
 export const EXPERIENCES = [
   {
     id: 1,
-    role: 'Analista de Desenvolvimento de Sistemas',
+    role: 'Desenvolvedor Full Stack',
     company: 'Palmont Engenharia',
     period: 'set. 2021 — Atual',
     highlights: [
-      'Único desenvolvedor do P-SIG, sistema interno de QSSMA e RH com cerca de 100 a 150 usuários.',
-      'Comecei na QSSMA com Power Apps (desvios, treinamentos, auditoria interna, checklist, CIPA e painel de não conformidades). Com o crescimento dos registros, propus e executei a migração para PHP, HTML/CSS/JS e MySQL e, em seguida, o front para React e Styled Components.',
-      'Construí o módulo de RH a partir de planilha (colaboradores, benefícios, folha e alojamento), cruzando o MariaDB do P-SIG com o SQL Server do TOTVS Protheus via PHP.',
+      'Entrei em setembro de 2021 como assistente de desenvolvimento. Comecei sozinho o P-SIG; hoje o sistema tem cerca de 150 a 200 usuários por dia e o código de outras duas pessoas passa pela minha revisão.',
+      'Na QSSMA comecei em Power Apps (desvios, treinamentos, auditoria interna, checklist, CIPA e não conformidades). Com o crescimento dos registros, propus e executei a migração para PHP, HTML/CSS/JS e MySQL e, em seguida, o front para React e Styled Components.',
+      'O RH saiu da planilha (colaboradores, benefícios, folha e alojamento). O PHP lê o SQL Server do TOTVS Protheus e grava no MariaDB o que o ERP não cobre. O sistema passou a atender também compras, contabilidade, frota, inventário de TI, cadastro de produtos e relatórios.',
       'O banco da aplicação começou em MySQL na Azure e foi migrado para MariaDB quando o serviço de MySQL foi descontinuado.',
-      'Autenticação com JWT em cookies httpOnly.',
-      'Rotinas em Python no Linux em horários definidos — por exemplo, lançamento automático de folgas de campo — e dashboards em Power BI para acompanhamento gerencial dos módulos.',
+      'Autenticação com JWT em cookies httpOnly (access e refresh), rota privada no React Router e permissão por módulo, submódulo e função.',
+      'Scripts em Python no cron do Linux — por exemplo, o lançamento automático de folgas de campo — e dashboards em Power BI para acompanhamento gerencial dos módulos.',
     ],
   },
   {

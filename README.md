@@ -1,16 +1,15 @@
-# React + Vite
+# Portfólio — Matheus Oliveira
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site pessoal em React e Vite. Os textos descrevem o trabalho na Palmont Engenharia (P-SIG e Bolão da Copa 2026) com a stack que está em produção: React, JavaScript, PHP, Python, MariaDB, MySQL e SQL Server.
 
-Currently, two official plugins are available:
+## Como rodar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```bash
+npm install
+npm run dev
+```
 
-## React Compiler
+## Links
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Site: https://portfolio-indol-two-83.vercel.app
+- GitHub: https://github.com/MathSOliv
